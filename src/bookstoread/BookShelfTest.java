@@ -121,7 +121,7 @@ public class BookShelfTest {
         assertEquals(
                 asList(mythicalManMonth, codeComplete, effectiveJava, cleanCode),
                 booksSortedByDate,
-                "Les livres sont triés par date de publication"
+                "Le trie des livres se fait par date de publication"
         );
     }
 
